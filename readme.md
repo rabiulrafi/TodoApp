@@ -4,7 +4,7 @@
 
 ## Description
 
-This is a simple TODO application built using the PERN stack (PostgreSQL, Express, React, Node.js). The application allows users to create, read, update, and delete (CRUD) tasks.
+This is a simple TODO application built using the OERN stack (Oracle, Express, React, Node.js). The application allows users to create, read, update, and delete (CRUD) tasks.
 
 ## Features
 
